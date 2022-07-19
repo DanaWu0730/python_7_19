@@ -1,0 +1,67 @@
+x=5
+print(x)
+print(type(x),end="\n")
+
+x="Hello world"
+print(x)
+print(type(x),end="\n")
+
+x=20.5
+print(x)
+print(type(x),end="\n")
+
+x=1j
+print(x)
+print(type(x),end="\n")
+
+x=["apple", "banana", "cherry"]
+print(x)
+print(type(x),end="\n")
+
+x=("apple", "banana", "cherry")
+print(x)
+print(type(x),end="\n")
+
+x={"name" : "John", "age" : 36}
+print(x)
+print(type(x),end="\n")
+
+x={"apple", "banana", "cherry"}
+print(x)
+print(type(x),end="\n")
+
+x=frozenset({"apple", "banana", "cherry"})
+print(x)
+print(type(x),end="\n")
+
+x=True
+print(x)
+print(type(x),end="\n")
+
+x= b"Hello"
+print(x)
+print(type(x),end="\n")
+
+x=bytearray(5)
+print(x)
+print(type(x),end="\n")
+
+x=memoryview(bytes(5))
+print(x)
+print(type(x),end="\n")
+
+x=None
+print(x)
+print(type(x),end="\n")
+
+x=bytes(5)
+print(x)
+print(type(x),end="\n")
+
+x=bytearray(5)
+print(x)
+print(type(x),end="\n")
+
+x=memoryview(bytes(5))
+print(x)
+print(type(x),end="\n")
