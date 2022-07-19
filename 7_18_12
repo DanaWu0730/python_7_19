@@ -1,0 +1,4 @@
+apple=6
+banana=5
+ans=apple==banana
+print(ans)
