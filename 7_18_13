@@ -1,0 +1,2 @@
+%pylab inline
+#pylab=python套件(可繪圖) inline=把套件掛進 %ioad=讀取文件內容
