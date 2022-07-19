@@ -1,0 +1,4 @@
+a=[5,12,3]
+print(max(a))
+a.sort()
+print(a)
