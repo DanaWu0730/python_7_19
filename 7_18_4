@@ -1,0 +1,3 @@
+!pip install twstock
+import twstock as d
+e=d.Stock("3008")
